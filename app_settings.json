@@ -1,0 +1,7 @@
+{
+    "rest_api_key": "d54c1037473faaae146794daf6f2b606",
+    "urls": {
+        "GET_XY": "https://dapi.kakao.com/v2/local/search/keyword.json?query="
+    },
+    "domain": "https://localhost:8888"
+}
